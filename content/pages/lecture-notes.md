@@ -4,11 +4,121 @@ title: Lecture Notes
 uid: 55802a31-eda5-2a58-8d6f-c30480672f50
 ---
 
-| LECTURE NOTES CONTENTS | FILES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Lecture 1: Introduction to MATLAB Basics {{< br >}}{{< br >}} *   Getting MATLAB to Run{{< br >}}*   Programming{{< br >}}*   The Command Prompt{{< br >}}*   Simple Expressions{{< br >}}*   Variables{{< br >}}*   Referencing Matrix Elements {{< br >}}{{< br >}}  | Lecture 1 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture1.html)) |
-|  {{< br >}}{{< br >}} Lecture 2: Matrices {{< br >}}{{< br >}} *   Accessing Matrix Elements{{< br >}}*   Assigning into Submatrices {{< br >}}{{< br >}}  | Lecture 2 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture2.html)) |
-|  {{< br >}}{{< br >}} Lecture 3: Basic Tools {{< br >}}{{< br >}} *   Matrix Concatenations{{< br >}}*   More Expressions{{< br >}}*   Plotting{{< br >}}*   Logical Constructs{{< br >}}*   Formatting Text {{< br >}}{{< br >}}  | Lecture 3 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture3.html)) |
-|  {{< br >}}{{< br >}} Lecture 4: Flow Control {{< br >}}{{< br >}} *   "if" Statement{{< br >}}*   "for" Loops {{< br >}}{{< br >}}  | Lecture 4 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture4.html)) |
-|  {{< br >}}{{< br >}} Lecture 5: Defining Functions {{< br >}}{{< br >}} *   "while" Statements{{< br >}}*   Variable Scope {{< br >}}{{< br >}}  | Lecture 5 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture5.html)) |
-|  {{< br >}}{{< br >}} Lecture 6: Functions and Logic {{< br >}}{{< br >}} *   Multiple Input Functions{{< br >}}*   More on Logic {{< br >}}{{< br >}}  | Lecture 6 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture6.html))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LECTURE NOTES CONTENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 1: Introduction to MATLAB Basics
+
+*   Getting MATLAB to Run
+*   Programming
+*   The Command Prompt
+*   Simple Expressions
+*   Variables
+*   Referencing Matrix Elements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 1 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture1.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 2: Matrices
+
+*   Accessing Matrix Elements
+*   Assigning into Submatrices
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 2 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture2.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 3: Basic Tools
+
+*   Matrix Concatenations
+*   More Expressions
+*   Plotting
+*   Logical Constructs
+*   Formatting Text
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 3 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture3.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 4: Flow Control
+
+*   "if" Statement
+*   "for" Loops
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 4 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture4.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 5: Defining Functions
+
+*   "while" Statements
+*   Variable Scope
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 5 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture5.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Lecture 6: Functions and Logic
+
+*   Multiple Input Functions
+*   More on Logic
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 6 Notes and Exercises ([HTML](/ans7870/resources/farjoun/Lecture6.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
