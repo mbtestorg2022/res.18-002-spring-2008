@@ -10,7 +10,7 @@ MATLAB Information from course 18.06, [Linear Algebra](/courses/18-06-linear-alg
 *   Short MATLAB Tutorial ([PDF]({{< baseurl >}}/resources/matlab_t)) and Cool [MATLAB demos](http://www.mathworks.com/products/demos/) by Mathworks
 *   [MATLAB Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
 
-MATLAB Tutorial from course 10.34, [Numerical Methods Applied to Chemical Engineering](/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/)
+MATLAB Tutorial from course 10.34, [Numerical Methods Applied to Chemical Engineering](/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005)
 
 *   MATLAB Tutorial ([PDF]({{< baseurl >}}/resources/tutorial00))
 *   Chapter 1: Basic MATLAB Commands ([PDF]({{< baseurl >}}/resources/tutorial01))
